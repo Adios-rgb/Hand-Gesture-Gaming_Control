@@ -35,4 +35,4 @@ Extending finger counter for lateral movement gaming control.
 6.	Loop over the defects and calculate the angle and length of one side of triangle.
 7.	Draw the circle between the defects.
 8.	Count of fingers will be one more than the count of defects.
-9.	If count is 5 then press right and if count is 1 then press left.
+9.	If count is 5 then press left and if count is 1 then press right.
